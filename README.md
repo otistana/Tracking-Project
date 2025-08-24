@@ -1,3 +1,4 @@
 # Tracking-Project
 # Package tracking project
-# Input 10 digits to get status and tracking number
+# Get package status 
+# See where your package is at
